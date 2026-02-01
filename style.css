@@ -1,2 +1,9 @@
 .special {
   border-radius: 50%;
+}
+.navbar {
+  position: fixed;
+  top: 50%;
+  right: 20px;
+  tramsform: translateY(-50%);
+  backround: #5a5a5a;
